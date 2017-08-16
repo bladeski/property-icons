@@ -2,11 +2,11 @@
 
 @font-face {
   font-family: 'property-icons';
-  src:  url('#{$icomoon-font-path}/property-icons.eot?42a5pq');
-  src:  url('#{$icomoon-font-path}/property-icons.eot?42a5pq#iefix') format('embedded-opentype'),
-    url('#{$icomoon-font-path}/property-icons.ttf?42a5pq') format('truetype'),
-    url('#{$icomoon-font-path}/property-icons.woff?42a5pq') format('woff'),
-    url('#{$icomoon-font-path}/property-icons.svg?42a5pq#property-icons') format('svg');
+  src:  url('#{$icomoon-font-path}/property-icons.eot?jniqut');
+  src:  url('#{$icomoon-font-path}/property-icons.eot?jniqut#iefix') format('embedded-opentype'),
+    url('#{$icomoon-font-path}/property-icons.ttf?jniqut') format('truetype'),
+    url('#{$icomoon-font-path}/property-icons.woff?jniqut') format('woff'),
+    url('#{$icomoon-font-path}/property-icons.svg?jniqut#property-icons') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -26,14 +26,49 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-. {
+.icon-church {
   &:before {
-    content: $;
+    content: $icon-church;
   }
 }
-. {
+.icon-bungalow {
   &:before {
-    content: $-path;
+    content: $icon-bungalow;
+  }
+}
+.icon-caravan {
+  &:before {
+    content: $icon-caravan;
+  }
+}
+.icon-farm {
+  &:before {
+    content: $icon-farm;
+  }
+}
+.icon-flat {
+  &:before {
+    content: $icon-flat;
+  }
+}
+.icon-house {
+  &:before {
+    content: $icon-house;
+  }
+}
+.icon-land {
+  &:before {
+    content: $icon-land;
+  }
+}
+.icon-semi-detached-house {
+  &:before {
+    content: $icon-semi-detached-house;
+  }
+}
+.icon-terrace {
+  &:before {
+    content: $icon-terrace;
   }
 }
 

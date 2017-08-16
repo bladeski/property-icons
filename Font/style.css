@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'property-icons';
-  src:  url('fonts/property-icons.eot?42a5pq');
-  src:  url('fonts/property-icons.eot?42a5pq#iefix') format('embedded-opentype'),
-    url('fonts/property-icons.ttf?42a5pq') format('truetype'),
-    url('fonts/property-icons.woff?42a5pq') format('woff'),
-    url('fonts/property-icons.svg?42a5pq#property-icons') format('svg');
+  src:  url('fonts/property-icons.eot?jniqut');
+  src:  url('fonts/property-icons.eot?jniqut#iefix') format('embedded-opentype'),
+    url('fonts/property-icons.ttf?jniqut') format('truetype'),
+    url('fonts/property-icons.woff?jniqut') format('woff'),
+    url('fonts/property-icons.svg?jniqut#property-icons') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -24,3 +24,30 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-church:before {
+  content: "\e900";
+}
+.icon-bungalow:before {
+  content: "\e901";
+}
+.icon-caravan:before {
+  content: "\e902";
+}
+.icon-farm:before {
+  content: "\e903";
+}
+.icon-flat:before {
+  content: "\e904";
+}
+.icon-house:before {
+  content: "\e905";
+}
+.icon-land:before {
+  content: "\e906";
+}
+.icon-semi-detached-house:before {
+  content: "\e907";
+}
+.icon-terrace:before {
+  content: "\e908";
+}
