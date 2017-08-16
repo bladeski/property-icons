@@ -11,3 +11,4 @@ The following icons are currently available:
 * Caravan (caravan) - an icon represeting a caravan.
 * Farm (farm) - an icon represeting a farm. This could be a residential or commercial (working) farm.
 * Land (land) - an icon represeting land.
+* Church (church) - an icon representing a church building.
