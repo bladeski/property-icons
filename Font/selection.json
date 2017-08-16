@@ -1,0 +1,57 @@
+{
+  "IcoMoonType": "selection",
+  "icons": [],
+  "height": 1024,
+  "metadata": {
+    "name": "property-icons",
+    "url": "https://github.com/bladeski/property-icons",
+    "designer": "Jonathan Blades",
+    "designerURL": "https://github.com/bladeski",
+    "license": "MIT",
+    "licenseURL": "https://github.com/bladeski/property-icons/blob/master/LICENSE"
+  },
+  "preferences": {
+    "showGlyphs": true,
+    "showQuickUse": true,
+    "showQuickUse2": true,
+    "showSVGs": true,
+    "fontPref": {
+      "prefix": "icon-",
+      "metadata": {
+        "fontFamily": "property-icons",
+        "majorVersion": 1,
+        "minorVersion": 0,
+        "fontURL": "https://github.com/bladeski/property-icons",
+        "description": "Property Icon Font",
+        "copyright": "Jonathan Blades 2017",
+        "designer": "Jonathan Blades",
+        "designerURL": "https://github.com/bladeski",
+        "license": "MIT",
+        "licenseURL": "https://github.com/bladeski/property-icons/blob/master/LICENSE"
+      },
+      "metrics": {
+        "emSize": 1024,
+        "baseline": 6.25,
+        "whitespace": 50
+      },
+      "embed": false,
+      "cssVars": true,
+      "cssVarsFormat": "scss",
+      "showSelector": true,
+      "showMetrics": false,
+      "showMetadata": true,
+      "showVersion": true
+    },
+    "imagePref": {
+      "prefix": "icon-",
+      "png": true,
+      "useClassSelector": true,
+      "color": 0,
+      "bgColor": 16777215,
+      "classSelector": ".icon"
+    },
+    "historySize": 50,
+    "showCodes": true,
+    "gridSize": 16
+  }
+}

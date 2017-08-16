@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="128.75352"
+   height="128.75352"
+   viewBox="0 0 34.066036 34.066036"
+   version="1.1"
+   id="svg6172"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="house.svg">
+  <defs
+     id="defs6166" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.959798"
+     inkscape:cx="27.098006"
+     inkscape:cy="37.601209"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="1028"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     units="px" />
+  <metadata
+     id="metadata6169">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(180.27373,73.830021)">
+    <path
+       style="fill:#00b2ff;fill-opacity:1;stroke:none;stroke-width:0.0883943;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       d="m -163.27333,-73.829091 a 1.4111314,0.70879305 5.2502585e-7 0 0 -0.66766,0.104386 1.4111314,0.70879305 5.2502585e-7 0 0 -0.48266,0.248047 l -7.54579,6.542753 -7.48275,6.487459 a 1.4111314,0.70879305 5.2502585e-7 0 0 1.21802,1.064535 l 1.34204,0.001 v 18.193204 c 0,0.0035 5e-4,0.0069 5.2e-4,0.01033 v 0.03514 c 0,0.763619 0.61459,1.37821 1.37821,1.37821 h 8.48734 v -0.0021 h 0.0439 a 0.04420157,0.04420157 0 0 0 0.0315,-0.01137 0.04420157,0.04420157 0 0 0 0.0134,-0.03152 v -11.380702 h 7.39439 v 11.380701 0.04496 h 8.48732 c 0.0136,0 0.0268,-0.0017 0.0403,-0.0021 0.001,-4e-5 0.003,4.3e-5 0.004,0 0.78733,0 1.42161,-0.634285 1.42161,-1.421619 v -18.173054 l 1.33791,10e-4 a 1.4111314,0.70879305 5.2502585e-7 0 0 1.22524,-1.061951 l -7.50755,-6.554121 -7.44399,-6.498828 a 1.4111314,0.70879305 5.2502585e-7 0 0 -1.29553,-0.354501 z"
+       id="rect4485"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="50.267109mm"
+   height="50.267109mm"
+   viewBox="0 0 50.267109 50.267109"
+   version="1.1"
+   id="svg9024"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="semi-detached-house.svg">
+  <defs
+     id="defs9018" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.959798"
+     inkscape:cx="20.722652"
+     inkscape:cy="32.779792"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="1028"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata9021">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-27.215671,-107.23922)">
+    <path
+       style="fill:#00b2ff;fill-opacity:1;stroke:none;stroke-width:0.33408868;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       d="m 61.869141,0.00390625 a 5.33341,2.6789029 5.2502585e-7 0 0 -2.523438,0.39453125 5.33341,2.6789029 5.2502585e-7 0 0 -1.824219,0.9375 L 29.001953,26.064453 0.72070312,50.583984 a 5.33341,2.6789029 5.2502585e-7 0 0 4.60351568,4.023438 l 5.0761722,0.0039 v 68.759758 c 0,2.78976 2.106841,5.07833 4.822265,5.35352 0.06415,0.007 0.130474,0.005 0.195313,0.01 0.118044,0.008 0.235425,0.0195 0.355469,0.0195 h 32.082031 a 0.16706105,0.16706105 0 0 0 0.162109,-0.16993 V 85.568359 h 27.947266 v 43.015621 a 0.16706105,0.16706105 0 0 0 0.169922,0.16993 h 32.082034 5.63281 a 0.16706105,0.16706105 0 0 0 0.16992,-0.16993 V 85.568359 h 27.94727 v 43.015621 a 0.16706105,0.16706105 0 0 0 0.16992,0.16993 h 32.07422 c 0.10685,0 0.2111,-0.0115 0.3164,-0.0176 0.0775,-0.005 0.15781,-0.004 0.23438,-0.0117 2.71623,-0.27519 4.83008,-2.56376 4.83008,-5.35352 V 54.6875 l 5.05273,0.0039 a 5.33341,2.6789029 5.2502585e-7 0 0 4.63086,-4.013672 L 160.90039,25.90625 132.76562,1.3417969 a 5.33341,2.6789029 5.2502585e-7 0 0 -7.41992,-0.9433594 5.33341,2.6789029 5.2502585e-7 0 0 -1.82422,0.9375 L 95.041016,26.029297 94.900391,25.90625 66.765625,1.3417969 A 5.33341,2.6789029 5.2502585e-7 0 0 61.869141,0.00390625 Z"
+       transform="matrix(0.26458333,0,0,0.26458333,27.215671,123.44035)"
+       id="path4506"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
